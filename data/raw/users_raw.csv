@@ -1,0 +1,5 @@
+user_id,full_name,email,signup_date,is_active
+1,John Smith,john.smith@email.com,2024-01-05,yes
+2,Alice Brown,alice.brown@email.com,2024-02-11,no
+3,Mike Taylor,,2024-03-01,yes
+4,Sara Khan,sara.k@email.com,invalid_date,yes
